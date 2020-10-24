@@ -1,0 +1,2 @@
+
+Mecanismo padrão de acesso a banco de dados no PHP a partir no PHP 5.
